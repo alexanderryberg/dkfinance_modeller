@@ -7,12 +7,12 @@ ASK og AOP vs realisationsbeskatning
 *Brug ikke dette som finansiel rådgivning. Dette er kun en model.*
 
 Aktiesparekonto (ASK) og aldersopsparing (AOP) har begge lave beskatningsprocenter på henholdsvis 17% og 15.3%,
-men er tilgængelig lagerbeskattede.
+men er til gengæld lagerbeskattede.
 I princippet vil realisationsbeskatning med aktiebeskatning på 27%/42% kunne give et højere afkast over en lang periode
-pga renters rente.
-Her vil der blive undersøgt hvor lang denne periode faktisk er.
+pga. renters rente.
+Her vil det blive undersøgt, hvor lang denne periode faktisk er.
 
-Først skal den gevinst af depotterne kontrueres.
+Først skal den gevinst af depotterne konstrueres.
 Her bliver der taget udgangspunk i data for S&P500 (fordi denne data er nemt tilgængelig), dataen er hentet fra, http://www.econ.yale.edu/~shiller/data/ie_data.xls, 16-11-2020.
 Den procentvise stigning af ETFens kurs er nu den procentvise stigning af S&P500 plus det procentvise udbytte.
 Se https://github.com/erikkjellgren/dkfinance_modeller/tree/main/docs/analyser/SP500.csv for den behandlede data.
